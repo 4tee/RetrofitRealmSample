@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Retrofit Realm Sample</string>
+    <string name="fetch_from_internet">Fetch from internet</string>
+    <string name="show_code_from_database">Show country code from database</string>
+    <string name="show_name_with_code_from_database">Show country name with code from database</string>
+</resources>
